@@ -1,7 +1,7 @@
 name: currency_code_to_currency_symbol
-description: "A new Flutter package project."
+description: "Currency code to currency symbol"
 version: 0.0.1
-homepage:
+homepage: https://github.com/antwanhelou/currency_code_to_currency_symbol
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
